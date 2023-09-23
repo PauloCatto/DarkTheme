@@ -1,4 +1,4 @@
-Projeto DarkTheme é um projeto basico, visando praticar os conceitos aprimorados durante as aulas do curso de Angular, onde a ideia é que com apenas um click o usuario consiga alterar o tema da pagina para dark ou light.
+Projeto DarkTheme é um projeto basico, onde a ideia é que com apenas um click o usuario consiga alterar o tema da pagina para dark/light.
 <br>
 <hr>
 <br>
